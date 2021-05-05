@@ -1,5 +1,5 @@
 /**
-* This program gets some string input, 
+* This program gets some string input,
 * reverse the string using recursion and shows reversed string.
 *
 * @author  Jay Lee
